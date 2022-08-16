@@ -1,4 +1,6 @@
 # RandomQuote
+when you are redirected to this projects link please Choose Master branch form left dropdown
+donwload the project
 Open the project
 Change the database name in .env to tweety
 start the project with php artisan serve in terminal
